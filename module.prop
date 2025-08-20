@@ -1,0 +1,7 @@
+id=portswigger-magisk
+name=PortSwigger Certificate Installer
+version=v1.0
+versionCode=1
+author=PortSwigger
+description=Install PortSwigger CA certificate into System CA Store.
+updateJson=
