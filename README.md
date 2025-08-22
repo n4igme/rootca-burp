@@ -56,3 +56,8 @@ Module execution logs are stored in `/data/local/tmp/rootca_burp.log` for troubl
 ## Uninstallation
 
 Simply disable or remove the module through your root manager and reboot.
+
+# Credits  
+Inspired by and building upon the implementation work of:  
+- [Custom CACert](https://github.com/WindSpiritSR/CustomCACert) by WindSpiritSR  
+- [reqable Magisk](https://github.com/reqable/reqable-magisk-module) module by reqable 
