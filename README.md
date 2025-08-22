@@ -18,6 +18,8 @@ This module installs the Burpsuite CA certificate as a system certificate, allow
 
 To create the magisk / kernelsu installer ZIP:
 ```bash
+git clone https://github.com/n4igme/rootca-burp.git
+cd rootca-burp/
 zip -r rootca-burp.zip ./*
 ```
 
@@ -27,6 +29,9 @@ zip -r rootca-burp.zip ./*
 2. Install via Magisk Manager or KernelSU Manager
 3. Reboot your device
 4. The Burpsuite CA certificate will be installed as a system certificate
+
+## Demo Video
+[<img src="https://img.youtube.com/vi/Dc5sQPeqo5w/hqdefault.jpg" width="300" height="425"/>](https://youtu.be/hGPznMY4v8M)
 
 ## Compatibility
 
