@@ -31,7 +31,7 @@ zip -r rootca-burp.zip ./*
 4. The Burpsuite CA certificate will be installed as a system certificate
 
 ## Demo Video
-[<img src="https://img.youtube.com/vi/Dc5sQPeqo5w/hqdefault.jpg" width="300" height="425"/>](https://youtu.be/hGPznMY4v8M)
+[<img src="https://img.youtube.com/vi/hGPznMY4v8M/hqdefault.jpg" width="300" height="425"/>](https://youtu.be/hGPznMY4v8M)
 
 ## Compatibility
 
